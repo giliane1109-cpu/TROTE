@@ -1,13 +1,13 @@
 {
-  "name": "TOTRE - Sistema de Gestão",
+  "name": "TOTRE - Sistema de Gestão para Tornearia",
   "short_name": "TOTRE",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#0f172a",
+  "background_color": "#0b1329",
   "theme_color": "#0284c7",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3076/3076129.png",
+      "src": "icone-totre.png",
       "sizes": "512x512",
       "type": "image/png"
     }
